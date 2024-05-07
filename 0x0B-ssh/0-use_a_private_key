@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+#Scipt that uses ssh to connect your server using your private key
 ssh -i ~/.ssh/school ubuntu@54.146.80.151
