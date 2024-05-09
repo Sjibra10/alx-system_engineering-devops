@@ -1,0 +1,4 @@
+#Scipt that configures ssh client to connect to a server
+Host *
+	IdentityFile ~/.ssh/school
+        PasswordAuthentication no
